@@ -16,7 +16,7 @@
 </a> <a href="https://redash.io/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/redashio/redashio-icon.svg" alt="redash" width="40" height="40"/>
 
-----------------
+
 
 🔵  [**Инженерия данных**](https://github.com/kioybash/analytical_tasks/blob/main/SQL_queries/Task_8.sql "**инженерии данных**") - здесь представлены проекты выполненные в проекте обучения. 
 
